@@ -1,4 +1,4 @@
-# pgAdmin 4
+# pgAdmin 4 (with Docker)
 
 This is a basic docker image for running pgAdmin 4 in a container. The default configuration is intended for playing with SQL datasets and it is not intended for production (it runs in "desktop" mode and authentication is disabled).
 
